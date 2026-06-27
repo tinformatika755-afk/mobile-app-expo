@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "tugas-expo-app",
+    "slug": "tugas-expo-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.tugasexpoapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "98e99df9-bdd1-4655-95d6-9a7d8ababe12"
+      }
+    },
+    "owner": "abner123"
+  }
+}

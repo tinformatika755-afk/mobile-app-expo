@@ -1,5 +1,11 @@
-extra: {
-  eas: {
-    projectId: 'tugas-expo-app'
-  }
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    }
+  },
+  "extends": "expo/tsconfig.base"
 }
